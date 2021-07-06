@@ -1,0 +1,2 @@
+rootProject.name = "bg_removal"
+include ':app'
